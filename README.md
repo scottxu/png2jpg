@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-png的图片转换程jpg
+new_jpg_file_path = Png2jpg::convert(old_png_file_path)
 
 ## Contributing
 
