@@ -2,7 +2,7 @@
 
 * convert  png  to jpg, and will deal with the background transparent black issues.
 * 将png的图片转换程jpg，并处理背景透明就会变黑的问题。
-## Installation
+
 
 Add this line to your application's Gemfile:
 
