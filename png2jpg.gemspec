@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "png2jpg"
   spec.version       = Png2jpg::VERSION
   spec.authors       = ["scottxu"]
-  spec.email         = ["xubingchao@dituhui.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["xubingchao@gmail.com"]
+  spec.summary       = %q{png convert to jpg}
+  spec.description   = %q{png convert to jpg}
   spec.homepage      = ""
   spec.license       = "MIT"
 
